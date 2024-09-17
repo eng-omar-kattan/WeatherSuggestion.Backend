@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "HK84HJPbqf65PHM64I0z8q78dOxAqa6u43E6HgF1jUY=",
+  "Source": "WeatherSuggestion.Api",
+  "BasePath": "_content/WeatherSuggestion.Api",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
